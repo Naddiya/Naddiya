@@ -1,6 +1,10 @@
 ### Hi there 👋
+<video autoplay loop poster="https://drive.google.com/file/d/1m0FglqfOyBYyg2wRsaGFtOw50Q7sXjas/view?usp=sharing" id="bgvid">
+  <source src="polina.webm" type="video/webm">
+  <source src="polina.mp4" type="video/mp4">
+</video>
 
-[![calm beach](https://drive.google.com/file/d/1m0FglqfOyBYyg2wRsaGFtOw50Q7sXjas/view?usp=sharing)](https://drive.google.com/file/d/1m0FglqfOyBYyg2wRsaGFtOw50Q7sXjas/view?usp=sharing)
+
 
 <!--
 **Naddiya/Naddiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
