@@ -1,7 +1,7 @@
 ### Hi there 👋
 
+[![calm beach](https://drive.google.com/file/d/1m0FglqfOyBYyg2wRsaGFtOw50Q7sXjas/view?usp=sharing)](https://drive.google.com/file/d/1m0FglqfOyBYyg2wRsaGFtOw50Q7sXjas/view?usp=sharing"Video Title")
 
-[ calm beach ](./img/calm.mp4)
 <!--
 **Naddiya/Naddiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
