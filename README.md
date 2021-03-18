@@ -1,8 +1,4 @@
 ### Hi there 👋
-<video autoplay loop poster="https://drive.google.com/file/d/1m0FglqfOyBYyg2wRsaGFtOw50Q7sXjas/view?usp=sharing" id="bgvid">
-  <source src="polina.webm" type="video/webm">
-  <source src="polina.mp4" type="video/mp4">
-</video>
 
 
 
