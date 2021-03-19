@@ -32,7 +32,7 @@ When I'm not coding you will find me walking my guitar :guitar: or playing the d
 :hatched_chick::baby_chick::hatching_chick: :ocean: :crocodile:
 >
 
-In order to save the chiks, offer me a position.
+In order to save the chicks, offer me a position.
 >
 I'm :statue_of_liberty: for the moment, so don't hesitate :fishing_pole_and_fish: ! 
 
