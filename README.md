@@ -36,5 +36,5 @@ I'm :statue_of_liberty: for the moment, so don't hesitate :fishing_pole_and_fish
  [![link to my linkedin profile](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=blue)](https://www.linkedin.com/in/nadiamedkouri/)
   ![twitter follow badge](https://img.shields.io/twitter/follow/MedkouriNadia?style=social)
  #
- ![last update on march the 28th 2021](https://img.shields.io/badge/last%20update-march%2028th%202021-green)
+ ![last update](https://img.shields.io/github/last-commit/Naddiya/Naddiya?color=green&label=last%20update)
 
