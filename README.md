@@ -20,7 +20,16 @@ When I'm not coding you will find me walking my guitar :guitar: or playing the d
 ![node logo](https://img.shields.io/static/v1?logo=node.js&label=&message=node&color=white)
 ![mongodb logo](https://img.shields.io/static/v1?logo=MongoDB&label=&message=mongodb&color=white)
 
-<!-- 
+
+
+## :telescope: More OSINT
+
+ >
+ [![link to my linkedin profile](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=blue)](https://www.linkedin.com/in/nadiamedkouri/)
+![twitter follow badge](https://img.shields.io/twitter/follow/MedkouriNadia?style=social)
+
+
+
 ## :panda_face: The WWF Game : 
 
 >
@@ -29,12 +38,9 @@ When I'm not coding you will find me walking my guitar :guitar: or playing the d
 
 In order to save the chicks, offer me a position.
 >
-I'm :statue_of_liberty: for the moment, so don't hesitate :fishing_pole_and_fish: !  -->
-## :telescope: More OSINT
+I'm :statue_of_liberty: for the moment, so don't hesitate :phone: me ! 
 
- >
- [![link to my linkedin profile](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=blue)](https://www.linkedin.com/in/nadiamedkouri/)
-  ![twitter follow badge](https://img.shields.io/twitter/follow/MedkouriNadia?style=social)
- #
- ![last update](https://img.shields.io/github/last-commit/Naddiya/Naddiya?color=green&label=last%20update)
-
+#
+![last update](https://img.shields.io/github/last-commit/Naddiya/Naddiya?color=blueviolet&label=last%20update)
+![views](https://img.shields.io/github/watchers/Naddiya/Naddiya?style=social)
+<!-- ![stars](https://img.shields.io/github/stars/Naddiya?style=social) -->
