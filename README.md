@@ -29,7 +29,7 @@ When I'm not coding you will find me walking my guitar :guitar: or playing the d
 ![twitter follow badge](https://img.shields.io/twitter/follow/MedkouriNadia?style=social)
 
 
-
+<!-- 
 ## :panda_face: The WWF Game : 
 
 >
@@ -38,7 +38,7 @@ When I'm not coding you will find me walking my guitar :guitar: or playing the d
 
 In order to save the chicks, offer me a position.
 >
-I'm :statue_of_liberty: for the moment, so don't hesitate :phone: me ! 
+I'm :statue_of_liberty: for the moment, so don't hesitate :phone: me !  -->
 
 #
 ![last update](https://img.shields.io/github/last-commit/Naddiya/Naddiya?color=blueviolet&label=last%20update)
