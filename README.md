@@ -8,7 +8,7 @@
 
  I'm a 41 year old young developper willing to learn and to progress.
 
-I love both frontend and backend wether I'm more confortable with client side for the moment.
+I love both frontend and backend whether I'm more confortable with client side for the moment.
 
 As I was a jewler :gem: for 15 years, I'm sensitive to beautiful-cool-outrageous-audacious designs.
 
