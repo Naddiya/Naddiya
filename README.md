@@ -7,8 +7,17 @@
 
 I'm a 43 year old young developer willing to learn and to progress.
 
+<<<<<<< HEAD
 I love both frontend and backend wether I'm more comfortable with client side for the moment.
 For now, I'm working on React/TypeScript apps for aeronautics.
+=======
+<<<<<<< HEAD
+I love both frontend and backend whether I'm more confortable with client side for the moment.
+=======
+I love both frontend and backend wether I'm more comfortable with client side for the moment.
+For now, I'm working on React/TypeScript apps for aeronautics.
+>>>>>>> a7fb7d6 (doc(readme): update readme)
+>>>>>>> 8792e01ddf9e4ba284febf86b99c582facd5cc8b
 
 As I was a jeweler :gem: for 15 years, I'm sensitive to beautiful-cool-outrageous-audacious designs.
 
@@ -32,4 +41,13 @@ In order to save the chicks, offer me a position.
 >
 I'm :statue_of_liberty: for the moment, so don't hesitate :phone: me !  -->
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#
+![last update](https://img.shields.io/github/last-commit/Naddiya/Naddiya?color=blueviolet&label=last%20update)
+![views](https://img.shields.io/github/watchers/Naddiya/Naddiya?style=social)
+=======
+>>>>>>> a7fb7d6 (doc(readme): update readme)
+>>>>>>> 8792e01ddf9e4ba284febf86b99c582facd5cc8b
 <!-- ![stars](https://img.shields.io/github/stars/Naddiya?style=social) -->
