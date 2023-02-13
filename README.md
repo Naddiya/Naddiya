@@ -32,8 +32,4 @@ In order to save the chicks, offer me a position.
 >
 I'm :statue_of_liberty: for the moment, so don't hesitate :phone: me !  -->
 
-#
-
-![last update](https://img.shields.io/github/last-commit/Naddiya/Naddiya?color=blueviolet&label=last%20update)
-
 <!-- ![stars](https://img.shields.io/github/stars/Naddiya?style=social) -->
