@@ -20,7 +20,7 @@ When I'm not coding you will find me walking my guitar :guitar: or playing the d
 
 ## :telescope: More OSINT
 
-[![link to my linkedin profile](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=blue)](https://www.linkedin.com/in/nadiamedkouri/) ![twitter follow badge](https://img.shields.io/twitter/follow/MedkouriNadia?style=social) [![link to my linkedin profile](https://img.shields.io/static/v1?logo=Gatsby&label=&message=MyFolio&color=663399)](https://nadiamedkouri.com/)
+[![link to my linkedin profile](https://img.shields.io/static/v1?logo=linkedin&label=&message=linkedin&color=blue)](https://www.linkedin.com/in/nadiamedkouri/) ![twitter follow badge](https://img.shields.io/twitter/follow/MedkouriNadia?style=social) [![link to portfolio](https://img.shields.io/static/v1?logo=Gatsby&label=&message=MyFolio&color=663399)](https://nadiamedkouri.com/)
 
 <!-- ## :panda_face: The WWF Game :
 
